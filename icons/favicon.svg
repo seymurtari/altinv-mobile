@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#245c91"/><stop offset="1" stop-color="#0a203a"/>
+    </linearGradient>
+    <radialGradient id="hl" cx="0.2" cy="0.05" r="0.6">
+      <stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="230" fill="url(#bg)"/>
+  <rect width="1024" height="1024" rx="230" fill="url(#hl)"/>
+  <g fill="#fff" fill-opacity=".23">
+    <rect x="292" y="598" width="96" height="202" rx="18"/>
+    <rect x="452" y="506" width="96" height="294" rx="18"/>
+    <rect x="612" y="392" width="96" height="408" rx="18"/>
+  </g>
+  <path d="M176 814H848" stroke="#fff" stroke-opacity=".28" stroke-width="10"/>
+  <path d="M176 452C226 560 300 650 410 650C600 650 730 520 826 222" fill="none" stroke="#fff" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="826" cy="222" r="96" fill="#f6b93b" fill-opacity=".28"/>
+  <circle cx="826" cy="222" r="80" fill="#fff"/>
+  <circle cx="826" cy="222" r="64" fill="#f6b93b"/>
+</svg>
