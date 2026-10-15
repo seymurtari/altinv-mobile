@@ -1,6 +1,6 @@
 {
-  "name": "Alt Investments",
-  "short_name": "Alt Inv",
+  "name": "Alts Portfolio",
+  "short_name": "Alts",
   "description": "Private-markets portfolio tracker",
   "start_url": "../",
   "scope": "../",
